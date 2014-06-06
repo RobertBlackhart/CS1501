@@ -1,0 +1,13 @@
+Name: Robert McDermot	Assignment #: 1
+Recitation Day and Time: Monday @ 1:00pm
+Recitation Instructor: Hany Saleeb
+Program Due Date: September 10, 2013
+Handed in Date: September 4, 2013 (re-handed in with infosheet September 8, 2013)
+Source code file name(s): ComputeDistanceBetween.java, Stopwatch.java, WordFreqPair.java
+Compiled (.jar or .exe) file name(s): ComputeDistanceBetween.class Stopwatch.class WordFreqPair.class
+Other file name(s) (if relevant): n/a
+Does your program compile without error?: yes
+	If not, what is/are the error(s): n/a
+Does your program run without error?: yes
+	If not, what is/are the error(s) and which parts of your program run correctly?: n/a
+Additional comments (including problems and extra credit): none
